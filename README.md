@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Recipe Page](https://github.com/alimassidik210/Recipe-page.git)
+- Live Site URL: [Recipe Page](https://recipe-page-ten-neon.vercel.app/)
 
 ## My process
 
@@ -88,7 +88,7 @@ table td:last-child {
 
 ### Useful resources
 
-- [chatgpt](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [chatgpt](https://www.example.com) - This helped me for many reason. I really liked this AI and will use it going forward.
 
 ## Author
 
